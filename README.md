@@ -1,5 +1,7 @@
 # TrailbreakersPlugins
 This is a repository that contains my most up-to-date Trailbreakers content.
+Keep in mind that some of it is based on, derived from, or inspired by mods created by Veltoc. (https://github.com/Veltoc/VelTech-Mods)
+As I don't want to keep updating this, eventually I plan on having credits and stuff embeded into said mods themselves, so, assume that all mods are co-authored or based on his mods, unless specifically told otherwise.
 
 This also houses the official mod loading library, a modified version of BepInEx (https://github.com/BepInEx/BepInEx)
 
